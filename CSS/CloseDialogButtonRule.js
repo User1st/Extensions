@@ -16,7 +16,7 @@
 			"height": "20px",
 			"position" : "absolute",
 			"background-size": "20px 20px",
-			"z-index" : "99999""},
+			"z-index" : "99999"},
 			mediaQuery: null
 		};
 		return rule;
